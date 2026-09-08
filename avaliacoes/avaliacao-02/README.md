@@ -1,7 +1,5 @@
 # Avaliação 02
 
-# Avaliação 02
-
 ## Descrição da atividade
 
 Completar as funcionalidades definidas como comentários no código `14-agregacao.dart`, trabalhando os conceitos de agregação e composição em Dart.
